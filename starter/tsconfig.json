@@ -1,7 +1,0 @@
-{
-  "compilerOptions": {
-    "target": "esnext",
-		"useDefineForClassFields": false,
-		"experimentalDecorators": true
-  }
-}

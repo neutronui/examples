@@ -1,7 +1,6 @@
 {
-  "name": "examples",
-  "packageManager": "yarn@3.5.0",
+  "name": "@neutronui/examples",
   "workspaces": [
-    "starter"
+    "quark-css"
   ]
 }
